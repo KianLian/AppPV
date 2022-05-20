@@ -20,7 +20,13 @@
             </Label.FormattedText>
         </Label>
 
-        <Button Text="A BUTTON!!!!!"></Button>
+        <Button Text="A BUTTON!!!!!"
+                x:Name="Weeks"
+                Background="Blue"
+                HeightRequest="60"
+                Clicked="Weeks_OnClicked">
+
+        </Button>
     </StackLayout>
 
 </ContentPage>

@@ -14,5 +14,10 @@ namespace AppPV
         {
             InitializeComponent();
         }
+
+        private void Weeks_OnClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new CampWeeks());
+        }
     }
 }
