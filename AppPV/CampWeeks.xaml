@@ -4,10 +4,12 @@
              x:Class="AppPV.CampWeeks">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="HAHAHA Weeks
-                   1"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="HAHAHA Weeks"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" >
+            </Button>
+          
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
