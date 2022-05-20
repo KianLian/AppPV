@@ -20,7 +20,7 @@
             </Label.FormattedText>
         </Label>
 
-        <Button Text="A BUTTON!!!!!!"></Button>
+        <Button Text="A BUTTON!!!!!"></Button>
     </StackLayout>
 
 </ContentPage>
