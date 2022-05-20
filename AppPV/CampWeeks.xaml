@@ -4,7 +4,8 @@
              x:Class="AppPV.CampWeeks">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="HAHAHA Weeks"
+            <Label Text="HAHAHA Weeks
+                   1"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
